@@ -10,4 +10,5 @@
 - Making and customising HTTP requests
 - Error handling
 - Practice with callback chaining
+- Do not commit secrets like access tokens to GitHub
 
