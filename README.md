@@ -11,4 +11,5 @@
 - Error handling
 - Practice with callback chaining
 - Do not commit secrets like access tokens to GitHub
+- ES6 feature such as object property shorthand + destructuring
 
